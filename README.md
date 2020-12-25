@@ -1,4 +1,4 @@
-# setMultiLangPhx
+# setMultiLangplaceHolders
 Плагин для простановки плейсхолдеров мультиязычности для сайтов Evolution CMS
 
 ## Параметры ##
